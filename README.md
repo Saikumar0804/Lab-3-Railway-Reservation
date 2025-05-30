@@ -1,5 +1,6 @@
 # Lab-3-Railway-Reservation
-
+## NAME : SAI KUMAR S
+## Reg No : 212222240087
 ### AIM:
 To develop the Railway Reservation System using Star UML tool.
 ### PROBLEM STATEMENT:
@@ -18,7 +19,18 @@ phones.
 of the online bus ticket system is to provide another way for transnational customers to buy
 their tickets.
 ### UML DIAGRAMS:
-
+USE CASE DIAGRAM
+![Screenshot 2025-05-16 212717](https://github.com/user-attachments/assets/266e2741-3078-4d01-abe0-10e6608ba3e2)
+CLASS DIAGRAM
+![Screenshot 2025-05-16 212816](https://github.com/user-attachments/assets/381711c8-cd8c-4fd4-b55d-2d620d02bb43)
+PACKAGE DIAGRAM
+![Screenshot 2025-05-16 212844](https://github.com/user-attachments/assets/15909603-bc8b-41b5-94aa-c34d6e14f9e5)
+SEQUENCE DIAGRAM
+![Screenshot 2025-05-16 212917](https://github.com/user-attachments/assets/792b19ae-33a5-4cc6-8cef-b2cf29114127)
+ACTIVITY DIAGRAM
+![Screenshot 2025-05-16 212948](https://github.com/user-attachments/assets/09af4e2b-1bff-4aef-af91-0a6244c57639)
+COMMUNICATION DIAGRAM
+![Screenshot 2025-05-16 213021](https://github.com/user-attachments/assets/f99176bf-92a7-4ca8-9bfb-b1e86e905d27)
 
 
 ### RESULT:
